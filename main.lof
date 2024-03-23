@@ -1,0 +1,56 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Ví dụ một lớp tích chập\cite {oshea2015introduction}}}{3}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Giao diện GNU Radio Companion}}{5}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Sơ đồ làm việc của GNU Radio}}{6}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Kiểu dữ liệu và xử lý tín hiệu trong GNU Radio}}{7}{figure.caption.14}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mã màu của các kiểu dữ liệu}}}{7}{figure.caption.14}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Luồng dữ liệu qua các khối xử lý}}}{7}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Sơ đồ khối phần cứng hệ thống SDR}}{8}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Các thiết bị SDR thông dụng}}{9}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Cấu hình của BladeRF x115}}{10}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Lấy mẫu IQ}}{11}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Tạo khối với Python Block trên GNU Radio}}{13}{figure.caption.21}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Khối Python Block trên GRC}}}{13}{figure.caption.21}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Lập trình cho khối Python Block}}}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Module tạo bằng gr\_modtool}}{13}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Xung đồng hồ tham chiếu đầu ra của BladeRF}}{16}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Xung đồng hồ tham chiếu được chia sẻ}}{17}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Kết quả cân chỉnh tần số với kalibrate-bladeRF}}{18}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Kết quả thu được trên máy phân tích phổ}}{18}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Tương quan chéo của 2 nhiễu Gauss}}{20}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Xác định độ trễ mẫu trên GNU Radio}}{21}{figure.caption.29}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Flow-graph mô phỏng ước lượng độ trễ giữa các đầu vào}}}{21}{figure.caption.29}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tương quan chéo của tín hiệu đầu vào}}}{21}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Ước lượng và phản hồi hiệu chỉnh $\textrm {sample}_\textrm {offset}$}}{22}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Ước lượng $\textrm {sample}_\textrm {offset}$ }}}{22}{figure.caption.30}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Phản hồi $\textrm {sample}_\textrm {offset}$}}}{22}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Ước lượng và phản hồi $\textrm {phase}_\textrm {offset}$}}{23}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Kết quả đồng bộ hệ SDR}}{24}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Tín hiệu ban đầu chưa đồng bộ}}}{24}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Tín hiệu sau khi dịch mẫu và căn chỉnh pha}}}{24}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Góc đầu ra ban đầu khi hệ được đồng bộ}}}{24}{figure.caption.32}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Sơ đồ làm việc DOA với dữ liệu mô phỏng Matlab}}{26}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Kết quả ước lượng DOA với dữ liệu mô phỏng Matlab}}{27}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Kết quả của GNU Radio}}}{27}{figure.caption.36}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Kết quả của Matlab}}}{27}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces CRB của mảng anten ULA}}{27}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces RMSE: Mô phỏng dữ liệu BladeRF qua kênh truyền}}{29}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Phổ của tín hiệu tín hiệu NBFM}}{30}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Sơ đồ bố trí hệ DOA thực}}{31}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces So sánh phổ không gian trên thực tế và mô phỏng}}{32}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Kết quả DOA mô phỏng khi hệ SDR đồng bộ}}{33}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Kết quả DOA thực nghiệm khi hệ SDR đồng bộ}}{33}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces RMSE: DOA thực nghiệm và mô phỏng}}{34}{figure.caption.47}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces RMSE: DOA ở từng vị trí thực nghiệm}}{35}{figure.caption.48}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Phổ tín hiệu DVB-T và NBFM thu được}}{36}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces RMSE: DOA với tín hiệu NBFM và DVB-T}}{37}{figure.caption.51}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Flow-graph ước lượng DOA với dữ liệu mô phỏng Matlab trên GNU Radio}}{40}{figure.caption.56}%
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Mô phỏng dữ liệu BladeRF qua kênh truyền}}{41}{figure.caption.57}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Mô phỏng tạp âm và nhiễu đa đường}}}{41}{figure.caption.57}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Mô phỏng $\textrm {sample}_\textrm {offset}$ và $\textrm {phase}_\textrm {offset}$}}}{41}{figure.caption.57}%
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Flow-graph truyền tín hiệu NBFM}}{42}{figure.caption.58}%
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Flow-graph ước lượng DOA}}{44}{figure.caption.59}%
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Flow-graph truyền tín hiệu DVB-T}}{45}{figure.caption.60}%
+\contentsfinish 

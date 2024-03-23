@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{article}
+Enzo Grossi and Massimo Buscema.
+\newblock Introduction to artificial neural networks.
+\newblock {\em European journal of gastroenterology \&\ hepatology},
+  19:1046--54, 01 2008.
+
+\bibitem{oshea2015introduction}
+Keiron O'Shea and Ryan Nash.
+\newblock An introduction to convolutional neural networks, 2015.
+
+\end{thebibliography}
