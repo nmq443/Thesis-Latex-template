@@ -57,3 +57,13 @@ Hiện nay có hai loại cửa sổ trượt thường được sử dụng là
 
 \subsection{Lớp kết nối đầy đủ}
 Lớp này tương tự như các lớp thông thường trong mạng ANN, ở đó các neuron sẽ kết nối với mọi neuron thuộc lớp trước của neuron đó. Trước khi đưa ảnh từ lớp trước đó vào lớp này, ta sẽ cần thay đổi chiều của lối vào, cụ thể ta sẽ dàn phẳng dữ liệu lối vào thành một vector cột chứ không còn là dạng ma trận như trước nữa. Tại lớp cuối cùng, ta sử dụng hàm softmax để phân loại đối tượng dựa trên vector đặc trưng đã được tính toán ở các lớp trước đó. 
+
+\subsection{}
+\begin{figure}[!h]
+\center
+\includegraphics[width=0.8\textwidth]{figures/CNN_Architechture.png}
+\caption{CNN}\label{fig:visual}
+\end{figure}
+Phần tử ở giữa nhân được đặt trên vector lối vào, sau đó được tính toán và thay bằng tích chập của chính nó với các pixels liền kề nó.
+
+
